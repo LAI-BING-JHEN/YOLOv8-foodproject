@@ -30,3 +30,12 @@ YOLOv8-foodproject/
 │
 ├── README.md
 └── .gitignore
+
+//install
+python 3.11.XX
+py -m pip install flask 
+py -m pip install ultralytics
+py -m pip install flask-cors
+py -m pip install openai
+py -m pip install qrcode
+ngrok
