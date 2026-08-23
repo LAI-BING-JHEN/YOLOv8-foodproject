@@ -41,5 +41,8 @@ train.py
 train1.py
 train2.py
 
-
-
+#flutter
+.dart_tool/
+.idea/
+build/
+android/local.properties 
