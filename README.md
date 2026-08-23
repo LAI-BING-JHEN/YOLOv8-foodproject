@@ -1,4 +1,5 @@
-YOLO/
+YOLOv8-foodproject/
+│
 ├── model/
 │   ├── best.pt
 │   ├── confusion_matrix.png
@@ -11,5 +12,21 @@ YOLO/
 │   ├── test_model.py
 │   └── train3.py
 │
-├── README.md          
+├── healthy_food/
+│   ├── android/
+│   ├── assets/
+│   ├── images/
+│   ├── ios/
+│   ├── lib/
+│   │   └── main.dart
+│   ├── linux/
+│   ├── macos/
+│   ├── test/
+│   ├── web/
+│   ├── windows/
+│   ├── pubspec.yaml
+│   ├── pubspec.lock
+│   └── README.md
+│
+├── README.md
 └── .gitignore
